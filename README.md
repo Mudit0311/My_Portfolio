@@ -42,3 +42,11 @@ This is a repository to showcase skills, share projects and track my progress in
 **Skills** : Building machine learning and deep learning classification models, Text Mining, Python Programming, Text preprocessing, Feature Engineering,                            Data Cleaning and Natural Language Processing. <br />
 **Technology** : Python, Pandas, Numpy, Scikit Learn, Regex, Jupyter Notebook.<br />
 **Results** : Designed and modeled Naive Bayes, Logistic Regression, SVM, Artificial Neural Networks (ANN), and LSTM. The baseline performance by the Naive Bayes model               is 86%. Logistic Regression outperformed all other models by achieving a test accuracy of around 90%.<br />
+
+### Database Design and Analysis using SQL                                                                                                                             
+**Code** : [Database_creation](https://github.com/Mudit0311/SQl-Data-Analysis)<br />
+**Presentation** : [design_and_analysis.ppt](https://github.com/Mudit0311/SQl-Data-Analysis/blob/main/SQLDataAnalysis.pptx)<br />
+**Description** : Performed Sentiment Analysis of 50k IMDB Movie Reviews. Developed various classification models to predict if the given movie review is positive or                     negative. <br />
+**Skills** :  <br />
+**Technology** : MySql, Lucid charts.<br />
+**Results** : Created a database and populate the data using MySql. Performed analysis using sql queries.<br />
