@@ -28,3 +28,10 @@ This is a repository to showcase skills, share projects and track my progress in
 **Skills** : Identifying success metrices, Identifying the measure for the success metrices, data cleaning, detecting data anomalies, python coding, data                            vizualization,.<br />
 **Technology** : Python, Pandas, Numpy, Seaborn, Matplotlib.<br />
 **Results** : Identified the success metrices and provided a quantitative assessment of whether the marketing campaign was successful or not and provided                             recommendations to improve the campaign.<br />
+
+### Movie Segmentaion
+**Code** : [Tableau_Dashboard](https://public.tableau.com/app/profile/mudit.mishra3579/viz/MovieSegmentationDashboard/MovieSegmentation)<br />
+**Description** : Created a movie segmentation dashboard for top 250 IMDb movies .Tableau Public dashboard consisted of: distribution by budget, release year, movie                     rating, genre, production, directore, etc. <br />
+**Skills** : designing an analytical dashboard, segmentation.<br />
+**Technology** : Tableau.<br />
+**Results** : created an analytical dashboard to analyze the distribution of top 250 Imdb movies by genre, production, director, total user's rated, release month,etc.               Other analysis specific to particular attributes were also made.<br />
