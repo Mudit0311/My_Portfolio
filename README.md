@@ -57,3 +57,11 @@ This is a repository to showcase skills, share projects and track my progress in
 **Skills** : Web Scrapping, Building Regression models, Outlier detection, Null value imputation, Data cleaning, Data preprocessing and Statistical Data analysis.<br />
 **Technology** : BeautifulSoup, Python, Pandas, Numpy, Scikit Learn, Regex, Matplotlib, Seaborn, Jupyter Notebook.<br />
 **Results** : <br />
+
+### PREDICTING WINE QUALITY AND TYPE
+**Code** : [wine_quality.ipynb](https://github.com/Mudit0311/Classification/blob/main/Project_Wine_0.93.ipynb)<br />
+         : [wine_type.ipynb](https://github.com/Mudit0311/Classification/blob/main/Project_Wine_Type_0.987.ipynb)<br />
+**Description** : The goal is to predict the quality and the type of the wine using several machine learning models and to know the best features impacting the quality                   of the wine to help producers, distributors, and businesses better assess their production, distribution, and pricing strategy <br />
+**Skills** : Building machine learning classification models, Outlier detection, Null value imputation, Data cleaning, Data preprocessing, Feature engineering. <br />
+**Technology** : Python, Pandas, Numpy, Scikit Learn, Regex, Jupyter Notebook.<br />
+**Results** : Modeled fine-tuned Logistic Regression, KNN, AdaBoost, ANN, Random Forest, and XG-Boost to predict wine type and quality. 94% accuracy was achieved by                 Random Forest for quality prediction, and 99.5% accuracy was achieved by AdaBoost for classifying wine type<br />
