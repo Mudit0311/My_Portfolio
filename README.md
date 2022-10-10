@@ -30,8 +30,15 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ### Movie Segmentaion
 **Tableau Public** : [Tableau_Dashboard](https://public.tableau.com/app/profile/mudit.mishra3579/viz/MovieSegmentationDashboard/MovieSegmentation)<br />
-**Dashboard canvas**: [dashboard_canvas.pdf](https://github.com/Mudit0311/Data-Analysis-Tableau/blob/main/Movie%20Segmentation.png)
+**Dashboard canvas**: [dashboard_canvas.pdf](https://github.com/Mudit0311/Data-Analysis-Tableau/blob/main/Movie%20Segmentation.png)<br />
 **Description** : Created a movie segmentation dashboard for top 250 IMDb movies .Tableau Public dashboard consisted of: distribution by budget, release year, movie                     rating, genre, production company, movie director, etc. <br />
 **Skills** : designing an analytical dashboard, segmentation.<br />
 **Technology** : Tableau.<br />
 **Results** : created an analytical dashboard to analyze the distribution of top 250 Imdb movies by genre, production, director, total user's rated, release month,etc.               Other analysis specific to particular attributes were also made.<br />
+
+### Sentiment Analysis
+**Code** : [Campaign_data_analysis.ipynb](https://github.com/Mudit0311/Campaign-Data-Analysis/blob/main/Campaign%20Analysis.ipynb)<br />
+**Description** : Performed Sentiment Analysis of 50k IMDB Movie Reviews. Developed various classification models to predict if the given movie review is positive or                     negative. <br />
+**Skills** : Building machine learning and deep learning classification models, Text Mining, Python Programming, Text preprocessing, Feature Engineering,              Data Cleaning. <br />
+**Technology** : Python, Pandas, Numpy, Scikit Learn, Regex, Jupyter Notebook.<br />
+**Results** : Designed and modeled Naive Bayes, Logistic Regression, SVM, Artificial Neural Networks (ANN), and LSTM. The baseline performance by the Naive Bayes model               is 86%. Logistic Regression outperformed all other models by achieving a test accuracy of around 90%.<br />
