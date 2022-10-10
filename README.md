@@ -17,7 +17,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ### IMDb Data Analysis  
 **Code** : [Data_Analysis_Python.ipynb](https://github.com/Mudit0311/Data-Analysis-Using-Python/blob/main/IMDB_DATA_ANALYSIS_PYTHON.ipynb)<br />
-**Description** : Performed Descriptive statistical analyses on IMDb dataset using python. Identified the outliers and performed null value imputation followed by                         feature engineering. Summarized qualitative and quantitative data my measuring central tendency, variability, shape of the distribution and                               percentiles.<br />
+**Description** : Performed descriptive statistical analysis on IMDb dataset using python. Identified the outliers and performed null value imputation followed by                         feature engineering. Summarized qualitative and quantitative data my measuring central tendency, variability, shape of the distribution and                               percentiles.<br />
 **Skills** : data cleaning, detecting data anomalies, python coding, data vizualization, descriptive statistics, dealing with outliers, data transformation, feature                  engineering.<br />
 **Technology** : Python, Pandas, Seaborn, Matplotlib, Plotly, Regular Expressions, Scikit Learn, Jupyter Notebook<br />
 **Results** : Generated insights on how the top 250 Imdb movies got distributed by genre, production company, budget,etc. Analyzed all the attributes and group of                     attributes together to generate the meaningful insights like, most famous director, actors with highest number of top 250 IMDb movies, etc.<br />
