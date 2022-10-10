@@ -12,5 +12,5 @@ This is a repository to showcase skills, share projects and track my progress in
 **Code** : [IMDb_top_250_Scrapping.ipynb](https://github.com/Mudit0311/Web-Scrapping-Python/blob/main/WEBSCRAPPING_IMDB_top_250.ipynb)<br />
 **Description** : I have presented here a Web scraping program to collect data on IMDB top 250 rated movies. I have extracted the movie ratings and their details. The extracted data contains the information on 16 attributes like : Name, Release year and Month, Director, Production, Rating, Genre, Worldwide collection, Budget, etc.<br />
 **Skills** : Webpage Inspection, Webpage parsing using Beautifulsoup, Data wrangling using Python and regular expressions.<br />
-**Technology** : Python, Pandas, BeautifulSoup, Regular Expression. Jupyter Notebook<br />
-**Results** : Extracted the data for top 250 Imdb movies.The data collected for 16 attributes dumped in a excel file.<br />
+**Technology** : Python, Pandas, BeautifulSoup, Regular Expression, Jupyter Notebook<br />
+**Results** : Extracted the data for top 250 Imdb movies. The data collected for 16 attributes dumped in a excel file.<br />
