@@ -7,28 +7,28 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Portfolio Projects
 
-### Web Scrapping 
+### WEB SCRAPPING
 **Code** : [IMDb_top_250_Scrapping.ipynb](https://github.com/Mudit0311/Web-Scrapping-Python/blob/main/WEBSCRAPPING_IMDB_top_250.ipynb)<br />
 **Description** : I have presented here a Web scraping program to collect data on IMDB top 250 rated movies. I have extracted the movie ratings and their details. The extracted data contains the information on 16 attributes like : Name, Release year and Month, Director, Production, Rating, Genre, Worldwide collection, Budget, etc.<br />
 **Skills** : Webpage Inspection, Webpage parsing using Beautifulsoup, Data wrangling using Python and regular expressions.<br />
 **Technology** : Python, Pandas, BeautifulSoup, Regular Expressions, Jupyter Notebook<br />
 **Results** : Extracted the data for top 250 Imdb movies. The data collected for 16 attributes dumped in a excel file.<br />
 
-### IMDb Data Analysis  
+### IMDb DATA ANALYSIS 
 **Code** : [Data_Analysis_Python.ipynb](https://github.com/Mudit0311/Data-Analysis-Using-Python/blob/main/IMDB_DATA_ANALYSIS_PYTHON.ipynb)<br />
 **Description** : Performed descriptive statistical analysis on IMDb dataset using python. Identified the outliers and performed null value imputation followed by                       feature engineering. Summarized qualitative and quantitative data my measuring central tendency, variability, shape of the distribution and                             percentiles.<br />
 **Skills** : data cleaning, detecting data anomalies, python coding, data vizualization, descriptive statistics, dealing with outliers, data transformation, feature                  engineering.<br />
 **Technology** : Python, Pandas, Seaborn, Matplotlib, Plotly, Regular Expressions, Scikit Learn, Jupyter Notebook<br />
 **Results** : Generated insights on how the top 250 Imdb movies got distributed by genre, production company, budget,etc. Analyzed all the attributes and group of                   attributes together to generate the meaningful insights like, most famous director, actors with highest number of top 250 IMDb movies, etc.<br />
 
-### Freedom Debt Relief Campaign Analysis  
+### FREEDOM DEBT RELIEF CAMPAIGN ANALYSIS  
 **Code** : [Campaign_data_analysis.ipynb](https://github.com/Mudit0311/Campaign-Data-Analysis/blob/main/Campaign%20Analysis.ipynb)<br />
 **Description** : Freedom Debt Relief’s customers are people who have a substantial amount of debt and because of an unexpected hardship, are no longer able to make                     their minimum monthly payments. Analyzed the campaign data to find out if the camapign was successful or not and based on the data given, identified                   that how we can further improve the campaign. <br />
 **Skills** : Identifying success metrices, Identifying the measure for the success metrices, data cleaning, detecting data anomalies, python coding, data                            vizualization,.<br />
 **Technology** : Python, Pandas, Numpy, Seaborn, Matplotlib.<br />
 **Results** : Identified the success metrices and provided a quantitative assessment of whether the marketing campaign was successful or not and provided                             recommendations to improve the campaign.<br />
 
-### Movie Segmentaion
+### MOVIE SEGMENTATION
 **Tableau Public** : [Tableau_Dashboard](https://public.tableau.com/app/profile/mudit.mishra3579/viz/MovieSegmentationDashboard/MovieSegmentation)<br />
 **Dashboard canvas**: [dashboard_canvas.pdf](https://github.com/Mudit0311/Data-Analysis-Tableau/blob/main/Movie%20Segmentation.png)<br />
 **Description** : Created a movie segmentation dashboard for top 250 IMDb movies .Tableau Public dashboard consisted of: distribution by budget, release year, movie                     rating, genre, production company, movie director, etc. <br />
@@ -36,14 +36,14 @@ This is a repository to showcase skills, share projects and track my progress in
 **Technology** : Tableau.<br />
 **Results** : created an analytical dashboard to analyze the distribution of top 250 Imdb movies by genre, production, director, total user's rated, release month,etc.               Other analysis specific to particular attributes were also made.<br />
 
-### Sentiment Analysis
+### SENTIMENT ANALYSIS
 **Code** : [sentiment_classification.ipynb](https://github.com/Mudit0311/Text-Mining/blob/main/IMDB_Final.ipynb)<br />
 **Description** : Performed Sentiment Analysis of 50k IMDB Movie Reviews. Developed various classification models to predict if the given movie review is positive or                     negative. <br />
 **Skills** : Building machine learning and deep learning classification models, Text Mining, Python Programming, Text preprocessing, Feature Engineering,                            Data Cleaning and Natural Language Processing. <br />
 **Technology** : Python, Pandas, Numpy, Scikit Learn, Regex, Jupyter Notebook.<br />
 **Results** : Designed and modeled Naive Bayes, Logistic Regression, SVM, Artificial Neural Networks (ANN), and LSTM. The baseline performance by the Naive Bayes model               is 86%. Logistic Regression outperformed all other models by achieving a test accuracy of around 90%.<br />
 
-### Database Design and Analysis using SQL                                                                                                                             
+### DATABASE DESIGN AND ANALYSIS USING SQL                                                                                                                             
 **Code** : [Database_creation](https://github.com/Mudit0311/SQl-Data-Analysis)<br />
 **Presentation** : [design_and_analysis.ppt](https://github.com/Mudit0311/SQl-Data-Analysis/blob/main/SQLDataAnalysis.pptx)<br />
 **Description** : Built database management system for an analytics training center which is a platform to learn and excel in Business Intelligence. Database was built from the scratch, specified the business requirements, created entity relationship model, developed relational data model and meta data and populate the created database tables.
@@ -52,7 +52,7 @@ This is a repository to showcase skills, share projects and track my progress in
 **Technology** : MySql, Lucid charts.<br />
 **Results** : Created a database and populate the data using MySql. Performed analysis using sql queries.<br />
 
-### Zillow Zestimate Prediction & Statistical Analysis.                                                                                                                 **Code** : []()<br />
+### ZILLOW ZESTIMATE PREDICTION & STATISTICAL ANALYSIS.                                                                                                                 **Code** : []()<br />
 **Description** :  <br />
 **Skills** : Web Scrapping, Building Regression models, Outlier detection, Null value imputation, Data cleaning, Data preprocessing and Statistical Data analysis.<br />
 **Technology** : BeautifulSoup, Python, Pandas, Numpy, Scikit Learn, Regex, Matplotlib, Seaborn, Jupyter Notebook.<br />
