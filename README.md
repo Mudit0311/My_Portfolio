@@ -12,5 +12,12 @@ This is a repository to showcase skills, share projects and track my progress in
 **Code** : [IMDb_top_250_Scrapping.ipynb](https://github.com/Mudit0311/Web-Scrapping-Python/blob/main/WEBSCRAPPING_IMDB_top_250.ipynb)<br />
 **Description** : I have presented here a Web scraping program to collect data on IMDB top 250 rated movies. I have extracted the movie ratings and their details. The extracted data contains the information on 16 attributes like : Name, Release year and Month, Director, Production, Rating, Genre, Worldwide collection, Budget, etc.<br />
 **Skills** : Webpage Inspection, Webpage parsing using Beautifulsoup, Data wrangling using Python and regular expressions.<br />
-**Technology** : Python, Pandas, BeautifulSoup, Regular Expression, Jupyter Notebook<br />
+**Technology** : Python, Pandas, BeautifulSoup, Regular Expressions, Jupyter Notebook<br />
 **Results** : Extracted the data for top 250 Imdb movies. The data collected for 16 attributes dumped in a excel file.<br />
+
+### IMDb Data Analysis  
+**Code** : [Data_Analysis_Python.ipynb](https://github.com/Mudit0311/Data-Analysis-Using-Python/blob/main/IMDB_DATA_ANALYSIS_PYTHON.ipynb)<br />
+**Description** : Performed Descriptive statistical analyses on IMDb dataset using python. Identified the outliers and performed null value imputation followed by                         feature engineering. Summarized qualitative and quantitative data my measuring central tendency, variability, shape of the distribution and                               percentiles.<br />
+**Skills** : data cleaning, detecting data anomalies, python coding, data vizualization, descriptive statistics, dealing with outliers, data transformation, feature                  engineering.<br />
+**Technology** : Python, Pandas, Seaborn, Matplotlib, Plotly, Regular Expressions, Scikit Learn, Jupyter Notebook<br />
+**Results** : Generated insights on how the top 250 Imdb movies got distributed by genre, production company, budget,etc. Analyzed all the attributes and group of                     attributes together to generate the meaningful insights like, most famous director, actors with highest number of top 250 IMDb movies, etc.<br />
