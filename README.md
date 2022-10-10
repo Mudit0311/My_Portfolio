@@ -8,9 +8,9 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Portfolio Projects
 
-### Web Scrapping - [IMDb_top_250_Scrapping.ipynb](https://github.com/Mudit0311/Web-Scrapping-Python/blob/main/WEBSCRAPPING_IMDB_top_250.ipynb)
-**Code** : video_games_sales.ipynb<br />
-**Description** : The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.<br />
-**Skills** : data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.<br />
-**Technology** : Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.<br />
-**Results** : Review of the global and regional video games markets, data-based business recommendations.<br />
+### Web Scrapping 
+**Code** : [IMDb_top_250_Scrapping.ipynb](https://github.com/Mudit0311/Web-Scrapping-Python/blob/main/WEBSCRAPPING_IMDB_top_250.ipynb)<br />
+**Description** : I have presented here a Web scraping program to collect data on IMDB top 250 rated movies. I have extracted the movie ratings and their details. The extracted data contains the information on 16 attributes like : Name, Release year and Month, Director, Production, Rating, Genre, Worldwide collection, Budget, etc.<br />
+**Skills** : Webpage Inspection, Webpage parsing using Beautifulsoup, Data wrangling using Python and regular expressions.<br />
+**Technology** : Python, Pandas, BeautifulSoup, Regular Expression. Jupyter Notebook<br />
+**Results** : Extracted the data for top 250 Imdb movies.The data collected for 16 attributes dumped in a excel file.<br />
