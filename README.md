@@ -29,7 +29,8 @@ This is a repository to showcase skills, share projects and track my progress in
 **Results** : Identified the success metrices and provided a quantitative assessment of whether the marketing campaign was successful or not and provided                             recommendations to improve the campaign.<br />
 
 ### Movie Segmentaion
-**Code** : [Tableau_Dashboard](https://public.tableau.com/app/profile/mudit.mishra3579/viz/MovieSegmentationDashboard/MovieSegmentation)<br />
+**Tableau Public** : [Tableau_Dashboard](https://public.tableau.com/app/profile/mudit.mishra3579/viz/MovieSegmentationDashboard/MovieSegmentation)<br />
+**Dashboard canvas**: [dashboard_canvas.pdf](https://github.com/Mudit0311/Data-Analysis-Tableau/blob/main/Movie%20Segmentation.png)
 **Description** : Created a movie segmentation dashboard for top 250 IMDb movies .Tableau Public dashboard consisted of: distribution by budget, release year, movie                     rating, genre, production company, movie director, etc. <br />
 **Skills** : designing an analytical dashboard, segmentation.<br />
 **Technology** : Tableau.<br />
