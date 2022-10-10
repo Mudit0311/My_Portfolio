@@ -37,7 +37,7 @@ This is a repository to showcase skills, share projects and track my progress in
 **Results** : created an analytical dashboard to analyze the distribution of top 250 Imdb movies by genre, production, director, total user's rated, release month,etc.               Other analysis specific to particular attributes were also made.<br />
 
 ### Sentiment Analysis
-**Code** : [Campaign_data_analysis.ipynb](https://github.com/Mudit0311/Campaign-Data-Analysis/blob/main/Campaign%20Analysis.ipynb)<br />
+**Code** : [sentiment_classification.ipynb](https://github.com/Mudit0311/Text-Mining/blob/main/IMDB_Final.ipynb)<br />
 **Description** : Performed Sentiment Analysis of 50k IMDB Movie Reviews. Developed various classification models to predict if the given movie review is positive or                     negative. <br />
 **Skills** : Building machine learning and deep learning classification models, Text Mining, Python Programming, Text preprocessing, Feature Engineering,                            Data Cleaning and Natural Language Processing. <br />
 **Technology** : Python, Pandas, Numpy, Scikit Learn, Regex, Jupyter Notebook.<br />
