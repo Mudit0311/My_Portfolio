@@ -51,3 +51,9 @@ This is a repository to showcase skills, share projects and track my progress in
 **Skills** : Requirement Gathering, ER modeling, Relational Data Modeling, SQL for creating , populating and for data analysis. <br />
 **Technology** : MySql, Lucid charts.<br />
 **Results** : Created a database and populate the data using MySql. Performed analysis using sql queries.<br />
+
+### Zillow Zestimate Prediction & Statistical Analysis.                                                                                                                 **Code** : []()<br />
+**Description** :  <br />
+**Skills** : Web Scrapping, Building Regression models, Outlier detection, Null value imputation, Data cleaning, Data preprocessing and Statistical Data analysis.<br />
+**Technology** : BeautifulSoup, Python, Pandas, Numpy, Scikit Learn, Regex, Matplotlib, Seaborn, Jupyter Notebook.<br />
+**Results** : <br />
