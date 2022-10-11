@@ -52,7 +52,7 @@ This is a repository to showcase skills, share projects and track my progress in
 **Technology** : MySql, Lucid charts.<br />
 **Results** : Created a database and populate the data using MySql. Performed analysis using sql queries.<br />
 
-### ZILLOW ZESTIMATE PREDICTION & STATISTICAL ANALYSIS.                                                                                                                 **Code** : [web_scrapping_zillow.ipynb](https://github.com/Mudit0311/Linear-Regression/blob/main/Group1_WebScrapping%20(1).ipynb)<br />
+### ZILLOW ZESTIMATE PREDICTION & STATISTICAL ANALYSIS.<br />                                                                                                           **Code** : [web_scrapping_zillow.ipynb](https://github.com/Mudit0311/Linear-Regression/blob/main/Group1_WebScrapping%20(1).ipynb)<br />
 **Code** : [zillow_group_1.ipynb](https://github.com/Mudit0311/Linear-Regression/blob/main/School-tier1-final%20(1).ipynb)<br />
 **Code** : [zillow_group_2.ipynb](https://github.com/Mudit0311/Linear-Regression/blob/main/School-tier2-final%20(1).ipynb)<br />
 **Description** : Built a linear regression model to predict the Zestimate’s followed by the statistical analysis using regression coefficients.
