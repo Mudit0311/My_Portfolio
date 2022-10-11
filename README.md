@@ -3,7 +3,7 @@
 ## About
 Hi, I'm Mudit! I grew up in India, and I have been living here in California Bay Area for last 2 years. I originally moved here for my masters in Business Analytics from California State University East Bay.I am graduating in December 2022 and open to Data Analyst | Business Analsyt | Data Scientist Roles. Here I gained experience by working as a data analyst intern for a Boston based startup and also worked as a SQL and product consultant for a Data Science Learning platform. I have my expertise in SQL, Python, Tableau, Data Mining and Statistical Data Analysis. Currently i am working as a Statistic consultant in my university, where i help students with statistics and data science projects. I am data science enthusiast looking for full time job to further increase my knowledge and to gain more experience.<br />
 
-Honor - Beta Gamma Sigma Membership
+#### Honor - Beta Gamma Sigma Membership
 I am appointed as a member of Beta Gamma Sigma (the international honor society for collegiate schools of business). Recognized as the top 20% of the graduate students from the world in business schools accredited by the AACSB.<br />
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
