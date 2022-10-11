@@ -52,11 +52,15 @@ This is a repository to showcase skills, share projects and track my progress in
 **Technology** : MySql, Lucid charts.<br />
 **Results** : Created a database and populate the data using MySql. Performed analysis using sql queries.<br />
 
-### ZILLOW ZESTIMATE PREDICTION & STATISTICAL ANALYSIS.                                                                                                                 **Code** : []()<br />
-**Description** :  <br />
+### ZILLOW ZESTIMATE PREDICTION & STATISTICAL ANALYSIS.                                                                                                                 **Code** : [web_scrapping_zillow.ipynb](https://github.com/Mudit0311/Linear-Regression/blob/main/Group1_WebScrapping%20(1).ipynb)<br />
+**Code** : [zillow_group_1.ipynb](https://github.com/Mudit0311/Linear-Regression/blob/main/School-tier1-final%20(1).ipynb)<br />
+**Code** : [zillow_group_2.ipynb](https://github.com/Mudit0311/Linear-Regression/blob/main/School-tier2-final%20(1).ipynb)<br />
+**Description** : Built a linear regression model to predict the Zestimate’s followed by the statistical analysis using regression coefficients.
+ Used BeautifulSoup to extract the property prices and other attributes. Performed Data Cleaning followed by Null value imputation, Outlier detection and data preparation.
+ <br />
 **Skills** : Web Scrapping, Building Regression models, Outlier detection, Null value imputation, Data cleaning, Data preprocessing and Statistical Data analysis.<br />
 **Technology** : BeautifulSoup, Python, Pandas, Numpy, Scikit Learn, Regex, Matplotlib, Seaborn, Jupyter Notebook.<br />
-**Results** : <br />
+**Results** : Successfully built a linear regression model to predict the Zestimate and generated useful insights using regression coefficients.<br />
 
 ### PREDICTING WINE QUALITY AND TYPE
 **Code 1** : [wine_quality.ipynb](https://github.com/Mudit0311/Classification/blob/main/Project_Wine_0.93.ipynb)<br />
