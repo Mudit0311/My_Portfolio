@@ -73,3 +73,7 @@ This is a repository to showcase skills, share projects and track my progress in
 **Skills** : Building machine learning classification models, Outlier detection, Null value imputation, Data cleaning, Data preprocessing, Feature engineering. <br />
 **Technology** : Python, Pandas, Numpy, Scikit Learn, Regex, Jupyter Notebook.<br />
 **Results** : Modeled fine-tuned Logistic Regression, KNN, AdaBoost, ANN, Random Forest, and XG-Boost to predict wine type and quality. 94% accuracy was achieved by                 Random Forest for quality prediction, and 99.5% accuracy was achieved by AdaBoost for classifying wine type.<br />
+
+## Contact Info
+### Email: mishramudit031@gmail.com
+### LinkedIn: http://linkedin.com/in/mudit-mishra-01870721a
